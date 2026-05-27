@@ -1,4 +1,4 @@
-# Hi, I'm Micah 👋
+# Hi, I'm Micah Yee(zus) 👋
 
 I build **AI-integration tooling and internal dashboards** — production [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers that connect AI assistants to real business systems, plus the full-stack dashboards that turn operational data into something teams can actually use.
 
