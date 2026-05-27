@@ -2,7 +2,7 @@
 
 I build **AI-integration tooling and internal dashboards** — production [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers that connect AI assistants to real business systems, plus the full-stack dashboards that turn operational data into something teams can actually use.
 
-Most of this was built at **Gem**, a growth-stage HR-tech SaaS company, to automate IT and operations and give teams self-serve access to the tools they depend on.
+Most of this was built at **Gem**, a growth-stage HR-tech SaaS company, to automate not just IT and operations but also our GTM and FinOps and GA teams to enable teams to utilize LLMs and AI with the tools they depend on.
 
 ## 🔌 MCP servers
 
@@ -16,7 +16,7 @@ TypeScript MCP servers deployed on **Google Cloud Run** behind **domain-restrict
 | [google-slides-mcp-server](https://github.com/micahyee415/google-slides-mcp-server) | Read, template-fill, and edit Slides |
 | [vitally-mcp](https://github.com/micahyee415/vitally-mcp) | 40-tool Vitally customer-success integration |
 | [upflow-mcp](https://github.com/micahyee415/upflow-mcp) | Upflow accounts-receivable — invoices, payments, finance |
-| [dropbox-paper-mcp-server](https://github.com/micahyee415/dropbox-paper-mcp-server) | Dropbox files + Paper docs (read/write) |
+| [dropbox-paper-mcp-server](https://github.com/micahyee415/dropbox-paper-mcp-server) | Dropbox Paper docs (read/write) |
 | [github-mcp-oauth-proxy](https://github.com/micahyee415/github-mcp-oauth-proxy) | OAuth proxy fronting the official GitHub MCP server |
 
 ## 📊 Dashboards
