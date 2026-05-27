@@ -36,7 +36,7 @@ Full-stack **Next.js** apps (App Router, Auth.js Google SSO, Postgres, Vercel).
 
 ## 🧰 Tech
 
-`TypeScript` · `Node` · `Next.js` · `React` · `Python` · `Google Cloud Run` · `Cloud Build` · `Postgres` · `Auth.js` · `Model Context Protocol` · `Docker`
+`TypeScript` · `Node` · `Next.js` · `React` · `Python` · `Google Cloud Run` · `Cloud Build` · `Postgres` · `Auth.js` · `Model Context Protocol` · `Docker` ·  `Claude Code` 
 
 ---
 
