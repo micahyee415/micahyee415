@@ -2,7 +2,13 @@
 
 I build **AI-integration tooling and internal dashboards** — production [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers that connect AI assistants to real business systems, plus the full-stack dashboards that turn operational data into something teams can actually use.
 
-Most of this was built at **Gem**, a growth-stage HR-tech SaaS company, to automate not just IT and operations but also our GTM and FinOps and GA teams to enable teams to utilize LLMs and AI with the tools they depend on.
+**Now:** founder of [MY Systems](https://mysystems.dev) — IT + AI hybrid consulting for small businesses and lean teams: AI automation (Claude workflows and agents), IT-ops automation (especially onboarding/offboarding), and modern-IT consulting. Client work lives in private repos; ask me about it.
+
+Most of the projects below were built at **Gem**, a growth-stage HR-tech SaaS company, to automate not just IT and operations but also our GTM, FinOps, and GA teams — enabling teams to use LLMs and AI with the tools they depend on. They're complete and **archived as reference implementations**: the code is exactly what ran in production, with dependencies frozen at archive time.
+
+## 🔭 Current
+
+- [google-workspace-admin-mcp](https://github.com/micahyee415/google-workspace-admin-mcp) — Google Workspace admin operations as safe, auditable AI-assistant tools (active)
 
 ## 🔌 MCP servers
 
@@ -36,7 +42,7 @@ Full-stack **Next.js** apps (App Router, Auth.js Google SSO, Postgres, Vercel).
 
 ## 🧰 Tech
 
-`TypeScript` · `Node` · `Next.js` · `React` · `Python` · `Google Cloud Run` · `Cloud Build` · `Postgres` · `Auth.js` · `Model Context Protocol` · `Docker` ·  `Claude Code` 
+`TypeScript` · `Node` · `Next.js` · `React` · `Python` · `Google Cloud Run` · `Cloud Build` · `Postgres` · `Auth.js` · `Model Context Protocol` · `Docker` ·  `Claude Code`
 
 ---
 
