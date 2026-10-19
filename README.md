@@ -4,7 +4,7 @@ I build **AI-integration tooling and internal dashboards** — production [Model
 
 **Now:** founder of [MY Systems](https://mysystems.dev) — IT + AI hybrid consulting for small businesses and lean teams: AI automation (Claude workflows and agents), IT-ops automation (especially onboarding/offboarding), and modern-IT consulting. Client work lives in private repos; ask me about it.
 
-Most of the projects below were built at **Gem**, a growth-stage HR-tech SaaS company, to automate not just IT and operations but also our GTM, FinOps, and GA teams — enabling teams to use LLMs and AI with the tools they depend on. They're complete and **archived as reference implementations**: the code is exactly what ran in production, with dependencies frozen at archive time.
+The archived projects below come from my earlier in-house IT and operations work: automating IT, operations, go-to-market and finance workflows so teams could use LLMs with the tools they already depend on. They're published as **archived reference implementations** and are no longer maintained. Dependencies are not kept up to date, so review and update them before deploying anything.
 
 ## 🔭 Current
 
