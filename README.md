@@ -1,6 +1,6 @@
 # Hi, I'm Micah Yee(zus) 👋
 
-I build **AI-integration tooling and internal dashboards** — production [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers that connect AI assistants to real business systems, plus the full-stack dashboards that turn operational data into something teams can actually use.
+I've been tinkering and really building **AI-integration tooling and internal dashboards** — and production [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers that connect AI assistants to real business systems, plus the full-stack dashboards that turn operational data into something teams can actually use.
 
 **Now:** founder of [MY Systems](https://mysystems.dev) — IT + AI hybrid consulting for small businesses and lean teams: AI automation (Claude workflows and agents), IT-ops automation (especially onboarding/offboarding), and modern-IT consulting. Client work lives in private repos; ask me about it.
 
